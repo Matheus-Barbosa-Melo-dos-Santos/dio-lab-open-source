@@ -65,8 +65,8 @@
 <div>
   <h1 align="left">Meus contatos:</h1>
   
-  <a href"matheusbarbosamelodossantos@gmail.com"> </a><br>    
-  <a href"www.linkedin.com/in/matheus-barbosa-melo-dos-santos"> </a><br>
-  <a href"wa.me/+5511992725933"> </a><br>
+  <a href"matheusbarbosamelodossantos@gmail.com"> Email </a><br>    
+  <a href"www.linkedin.com/in/matheus-barbosa-melo-dos-santos"> Linkedin </a><br>
+  <a href"wa.me/+5511992725933"> Whatsapp </a><br>
 </div
 ###
