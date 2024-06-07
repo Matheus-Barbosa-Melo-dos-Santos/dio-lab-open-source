@@ -57,12 +57,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Matheus-Barbosa-Melo-dos-Santos/Matheus-Barbosa-Melo-dos-Santos/output/snake.svg" alt="Snake animation" />
-
-###
-##Meus contatos:  
+## Meus contatos:  
 [Email](matheusbarbosamelodossantos@gmail.com)
 [Linkedin](www.linkedin.com/in/matheus-barbosa-melo-dos-santos)
 [Whatsapp](wa.me/+5511992725933)
