@@ -62,11 +62,8 @@
 <img src="https://raw.githubusercontent.com/Matheus-Barbosa-Melo-dos-Santos/Matheus-Barbosa-Melo-dos-Santos/output/snake.svg" alt="Snake animation" />
 
 ###
-<div>
-  <h1 align="left">Meus contatos:</h1>
-  
-  <a href"matheusbarbosamelodossantos@gmail.com"> Email </a><br>    
-  <a href"www.linkedin.com/in/matheus-barbosa-melo-dos-santos"> Linkedin </a><br>
-  <a href"wa.me/+5511992725933"> Whatsapp </a><br>
-</div
+##Meus contatos:  
+[Email](matheusbarbosamelodossantos@gmail.com)
+[Linkedin](www.linkedin.com/in/matheus-barbosa-melo-dos-santos)
+[Whatsapp](wa.me/+5511992725933)
 ###
